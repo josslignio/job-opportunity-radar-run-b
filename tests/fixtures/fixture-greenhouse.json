@@ -1,0 +1,25 @@
+{
+  "jobs": [
+    {
+      "id": 1001,
+      "title": "Senior AI Implementation Manager — Europe",
+      "updated_at": "2026-07-13T09:00:00Z",
+      "location": {"name": "Remote, Europe"},
+      "absolute_url": "https://boards.greenhouse.io/example/jobs/1001",
+      "content": "<p>Lead AI workflow implementation, stakeholder management, integrations, customer onboarding and process improvement across EMEA.</p>",
+      "departments": [{"name": "AI Operations"}],
+      "offices": [{"name": "Remote", "location": "Europe"}]
+    },
+    {
+      "id": 1002,
+      "title": "Junior Marketing Intern",
+      "updated_at": "2026-07-13T09:00:00Z",
+      "location": {"name": "Remote"},
+      "absolute_url": "https://boards.greenhouse.io/example/jobs/1002",
+      "content": "<p>Unpaid internship supporting social media.</p>",
+      "departments": [{"name": "Marketing"}],
+      "offices": []
+    }
+  ],
+  "meta": {"total": 2}
+}

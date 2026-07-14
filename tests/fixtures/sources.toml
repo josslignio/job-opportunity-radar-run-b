@@ -1,0 +1,21 @@
+[[sources]]
+name = "fixture-greenhouse"
+type = "greenhouse"
+company = "AI Systems Europe"
+board = "fixture"
+enabled = true
+
+[[sources]]
+name = "fixture-lever"
+type = "lever"
+company = "Crypto Exchange Labs"
+board = "fixture"
+instance = "eu"
+enabled = true
+
+[[sources]]
+name = "fixture-ashby"
+type = "ashby"
+company = "Growth Automation Cloud"
+board = "Fixture"
+enabled = true

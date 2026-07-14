@@ -1,0 +1,88 @@
+[identity]
+name = "Jocelyn Grosjean"
+email = "jocelyn.grosjean@gmail.com"
+languages = ["French", "English", "Portuguese", "Spanish"]
+immediately_available = true
+
+[preferences]
+minimum_score = 58
+excellent_score = 84
+good_score = 72
+freshness_days = 21
+max_daily_results = 15
+allowed_location_terms = [
+  "remote", "worldwide", "global", "europe", "european union", "eu",
+  "france", "portugal", "spain", "netherlands", "belgium", "germany",
+  "united kingdom", "uk", "emea", "cet", "cest"
+]
+blocked_location_terms = [
+  "us only", "usa only", "united states only", "canada only",
+  "must be based in the us", "must reside in the united states"
+]
+blocked_job_terms = [
+  "commission only", "commission-only", "unpaid", "volunteer",
+  "internship", "intern ", "graduate program"
+]
+strong_penalty_terms = ["junior", "entry level", "entry-level", "associate"]
+preferred_contract_terms = ["full-time", "full time", "permanent", "contract", "contractor"]
+preferred_industry_terms = [
+  "artificial intelligence", "ai", "automation", "saas", "fintech",
+  "crypto", "web3", "blockchain", "exchange", "developer tools"
+]
+
+[personas.ai_automation_pm]
+label = "AI / Automation Project Manager"
+cv = "CV_Jocelyn_AI_Automation_PM.pdf"
+title_terms = [
+  "ai project manager", "automation project manager", "ai program manager",
+  "implementation manager", "solutions manager", "ai operations",
+  "technical project manager", "customer success manager", "product operations"
+]
+skill_terms = [
+  "ai", "automation", "workflow", "implementation", "project management",
+  "stakeholder", "cross-functional", "operations", "integration", "no-code",
+  "low-code", "crm", "process improvement", "customer onboarding"
+]
+proof_points = [
+  "10+ years across growth, business development and operations",
+  "AI-powered marketing, lead-generation and reporting workflows",
+  "Founder/operator experience shipping systems across teams and clients"
+]
+
+[personas.growth_automation]
+label = "Growth / Marketing Automation"
+cv = "CV_Jocelyn_Growth_Marketing_Automation.pdf"
+title_terms = [
+  "growth lead", "head of growth", "growth manager", "growth operations",
+  "marketing automation", "lifecycle marketing", "demand generation",
+  "growth marketing", "gtm", "go-to-market", "revenue operations"
+]
+skill_terms = [
+  "growth", "acquisition", "automation", "crm", "lifecycle", "funnel",
+  "experimentation", "analytics", "paid", "partnerships", "community",
+  "retention", "activation", "go-to-market", "gtm", "revenue"
+]
+proof_points = [
+  "Scaled Zealy to 2M+ MAU and adoption by 5,000+ companies",
+  "Built P1 Studio and supported 60+ Web3, fintech and digital clients",
+  "Hands-on acquisition across X, LinkedIn, Telegram, Discord and paid channels"
+]
+
+[personas.crypto_affiliate_bd]
+label = "Crypto Affiliate / KOL / Business Development"
+cv = "CV_Jocelyn_Crypto_Affiliate_BD.pdf"
+title_terms = [
+  "affiliate manager", "affiliate business development", "partnerships manager",
+  "business development manager", "kol manager", "vip manager",
+  "ecosystem growth", "regional growth", "country manager", "partnerships lead"
+]
+skill_terms = [
+  "affiliate", "kol", "business development", "partnership", "crypto", "web3",
+  "exchange", "trading", "vip", "community", "western europe", "emea",
+  "negotiation", "revenue", "volume", "user acquisition"
+]
+proof_points = [
+  "Crypto and trading clients include MEXC, YouHodler and Bitpanda",
+  "Built KOL, affiliate, community and B2B partnership programs",
+  "French native, fluent English and immediately available in Europe"
+]

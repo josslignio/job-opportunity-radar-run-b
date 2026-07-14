@@ -1,0 +1,33 @@
+# Copy this file to config/sources.toml.
+# Board names/slugs are the final path segment of the public ATS job board URL.
+# Keep sources disabled until the board slug has been verified.
+
+[[sources]]
+name = "example-greenhouse"
+type = "greenhouse"
+company = "Example Greenhouse Company"
+board = "example"
+enabled = false
+
+[[sources]]
+name = "example-lever-global"
+type = "lever"
+company = "Example Lever Company"
+board = "example"
+instance = "global"
+enabled = false
+
+[[sources]]
+name = "example-lever-eu"
+type = "lever"
+company = "Example Lever EU Company"
+board = "example"
+instance = "eu"
+enabled = false
+
+[[sources]]
+name = "example-ashby"
+type = "ashby"
+company = "Example Ashby Company"
+board = "Example"
+enabled = false

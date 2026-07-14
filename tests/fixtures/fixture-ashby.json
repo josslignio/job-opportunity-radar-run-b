@@ -1,0 +1,30 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "ashby-3001",
+      "title": "Head of Growth Automation",
+      "location": "Paris or Remote Europe",
+      "secondaryLocations": [{"location": "Lisbon"}],
+      "department": "Marketing",
+      "team": "Growth",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Remote",
+      "descriptionPlain": "Own GTM, lifecycle, CRM automation, acquisition funnels, analytics, experimentation, partnerships and retention for an AI SaaS platform.",
+      "publishedAt": "2026-07-12T10:00:00Z",
+      "employmentType": "FullTime",
+      "jobUrl": "https://jobs.ashbyhq.com/example/ashby-3001",
+      "applyUrl": "https://jobs.ashbyhq.com/example/ashby-3001/apply",
+      "compensation": {"compensationTierSummary": "€85K–€110K"}
+    },
+    {
+      "id": "ashby-hidden",
+      "title": "Hidden Role",
+      "location": "Remote",
+      "isListed": false,
+      "jobUrl": "https://jobs.ashbyhq.com/example/hidden",
+      "applyUrl": "https://jobs.ashbyhq.com/example/hidden/apply"
+    }
+  ]
+}

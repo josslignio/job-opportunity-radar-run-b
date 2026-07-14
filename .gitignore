@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+.DS_Store
+.demo-runtime/
+runtime/
+config/sources.toml
+*.sqlite3

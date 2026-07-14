@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lever-2001",
+    "text": "Senior Affiliate Business Development Manager — Western Europe",
+    "categories": {
+      "location": "Remote — Europe",
+      "commitment": "Full-time",
+      "team": "Growth",
+      "department": "Business Development"
+    },
+    "descriptionPlain": "Build high-volume affiliate and KOL partnerships for a crypto exchange. Own user acquisition, trading volume, revenue, negotiation and market insights across Western Europe.",
+    "lists": [],
+    "additionalPlain": "French and English preferred.",
+    "hostedUrl": "https://jobs.eu.lever.co/example/lever-2001",
+    "applyUrl": "https://jobs.eu.lever.co/example/lever-2001/apply",
+    "workplaceType": "remote",
+    "salaryRange": {"currency": "EUR", "min": 80000, "max": 110000, "interval": "year"},
+    "createdAt": 1783958400000
+  },
+  {
+    "id": "lever-2002",
+    "text": "Growth Associate",
+    "categories": {
+      "location": "New York, United States only",
+      "commitment": "Full-time",
+      "team": "Growth",
+      "department": "Marketing"
+    },
+    "descriptionPlain": "Entry-level role. Must reside in the United States.",
+    "lists": [],
+    "additionalPlain": "",
+    "hostedUrl": "https://jobs.lever.co/example/lever-2002",
+    "applyUrl": "https://jobs.lever.co/example/lever-2002/apply",
+    "workplaceType": "hybrid",
+    "createdAt": 1783958400000
+  }
+]
